@@ -1,5 +1,8 @@
-# vaccine_ecc
-Code for the paper "Modelling the Effect of Vaccination and Human Behaviour on the Spread of Epidemic Diseases on Temporal Networks" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao
+# vaccine_siq
+Code for the following papers:
+
+1) "Modelling the Effect of Vaccination and Human Behaviour on the Spread of Epidemic Diseases on Temporal Networks" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao, to appear in the Proceedings of the 2022 European Control Conference (available at: https://doi.org/10.48550/arXiv.2111.05590)
+2) Working Paper by  by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
@@ -9,4 +12,4 @@ The code has been tested on a PC with 16GB RAM and CPU 1.9 GHz with OS Windows 1
 
 ORGANIZATION:
 
-The file "FIG2.m" generates Figure 2 of the paper.
+The folder ECC contains the files for paper 1). The folder JOURNAL contains the files for paper 2). In both folders, the file "FIG#.m" generates Figure # of the paper.
