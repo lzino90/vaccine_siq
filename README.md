@@ -1,7 +1,7 @@
 # vaccine_siq
 Code for the following papers:
 
-1) "Modelling the Effect of Vaccination and Human Behaviour on the Spread of Epidemic Diseases on Temporal Networks" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao, to appear in the Proceedings of the 2022 European Control Conference (available at: https://doi.org/10.48550/arXiv.2111.05590)
+1) "Modelling the Effect of Vaccination and Human Behaviour on the Spread of Epidemic Diseases on Temporal Networks" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao, published in the Proceedings of the 2022 European Control Conference (available at: https://doi.org/10.48550/arXiv.2111.05590)
 2) Working Paper by  by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
