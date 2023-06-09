@@ -2,9 +2,9 @@
 Code for the following papers:
 
 1) "Modelling the Effect of Vaccination and Human Behaviour on the Spread of Epidemic Diseases on Temporal Networks" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao, published in the Proceedings of the 2022 European Control Conference (available at: https://doi.org/10.48550/arXiv.2111.05590)
-2) Working Paper by  by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao
+2) "A Polarized Temporal Network Model to Study the Spread of Recurrent Epidemic Diseases in a Partially Vaccinated Population" by Kathinka Frieswijk, Lorenzo Zino, and Ming Cao, published in the IEEE Transactions on Network Science and Engineering (available at https://doi.org/10.1109/TNSE.2023.3272472)
 
-INSTRUCTIONS AND SYSTEM REQUIREMENTS:
+INSTRUCTIONS AND SYSTEM REQUIREMENTS: 
 
 The code for the simulation is written in MATLAB, using version 2021a and requires no add-ons. All the functions needed are included in the corresponding folders. Hence, to run the code it is sufficient to open the corresponding folder with MATLAB.
 
